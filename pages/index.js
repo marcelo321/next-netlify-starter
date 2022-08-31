@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>PoC by zonduu!</title>
+        <title>PoC by zonduu</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="PoC by zonduu!" />
         <p className="description">
-          PoC by zonduu!</code>
+          PoC by zonduu</code>
         </p>
       </main>
 

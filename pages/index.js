@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="PoC by zonduu!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          PoC by zonduu!</code>
         </p>
       </main>
 
